@@ -1,4 +1,4 @@
-title: 最喜欢的biabia～
+title: 怎么会有像biabia那么可爱的小可爱！
 email: tanzby@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   biabia是个小可爱，是个很小很小的小可爱，没有人比biabia更加地可爱了，我从来没有见过那么可爱善良漂亮的小可爱
@@ -7,20 +7,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://biabia.live" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: tanzby & biabia # add your name
+author: 怎么会有像biabia那么可爱的小可爱！ # add your name
 author-pic: biabia.JPG
 about-author: 罩着小可爱的～
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
+email: tanzby@outlook.com # Add your Email address
+phone: 13676006654 # Add your Phone number
+website: http://tanzby.pub # Add your website, do not add http://
 github: tanzby # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
-facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
-pinterest: # Add your Pinterest handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
