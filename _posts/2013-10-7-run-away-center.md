@@ -2,6 +2,7 @@
 layout: post
 title: 和biabia一起私奔了两公里
 date: 2013-10-07 01:13:00
+img: post3.JPG 
 tags: [骑迹人生]
 author: tanzby # Add name author (optional)
 ---
@@ -15,42 +16,41 @@ author: tanzby # Add name author (optional)
 
 	“我未想回去，去爽下如何？”
 
-
+嘿咻。。。恩。。上路了。。
 嘿咻。。。恩。。上路了。。
 
 
 	“来把我东西放你车篮”
-
+	
 	”嗯！“
-
+	
 	"你个傻逼不带书包出来!"
-
+	
 	"书包那么重!!"
-
+	
 	"好吧好吧。"
+	
 
-       
-
+神庙逃亡中 ... biubiubiu～
 神庙逃亡中 ... biubiubiu～
 
 	“有没有感觉像是私奔？“
-
+	
 	“有吗，没有～”
-
+	
 	”唉对了我跟说”
-
+	
 	...
-
+	
 	...
-
 
  	(≥3≤)
+ 	(≥3≤)
  	
- 
+
 
 	”来把书还给你“
-
+	
 	”88“ 
-
+	
 	。
-
