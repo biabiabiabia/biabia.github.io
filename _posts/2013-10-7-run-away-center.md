@@ -2,7 +2,7 @@
 layout: post
 title: 和biabia一起私奔了两公里
 date: 2013-10-07 01:13:00
-img: post3.JPG 
+img: post3.jpg 
 tags: [骑迹人生]
 author: tanzby # Add name author (optional)
 ---
