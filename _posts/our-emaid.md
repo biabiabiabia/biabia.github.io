@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 和biabia的邮件
-date: 2018-04-08 23:06:00
-description: 邮件邮件呢~
+date: 2018-04-08 10:36:00 
+description: (optional)
+img: eason_1.jpg # Add image post (optional)
 tags: [你在远方哎]
 author: tanzby # Add name author (optional)
 ---
