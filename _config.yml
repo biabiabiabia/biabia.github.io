@@ -1,7 +1,8 @@
 title: 怎么会有像biabia那么可爱的小可爱！
 email: tanzby@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  biabia是个小可爱，是个很小很小的小可爱，没有人比biabia更加地可爱了，我从来没有见过那么可爱善良漂亮的小可爱
+  biabia是个小可爱，是个很小很小的小可爱，没有人比biabia更加地可爱了，我从来没有见过那么可爱善良漂亮的小可爱.
+  要专注于记录小可爱，无论小可爱是掉水坑了，还是头发吹飞起来了，都要！通通记下来！！biabia最棒～
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://biabia.live" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,8 +10,7 @@ url: "http://biabia.live" # the base hostname & protocol for your site, e.g. htt
 # Author settings
 author: 怎么会有像biabia那么可爱的小可爱！ # add your name
 author-pic: biabia.JPG
-about-author: >
-罩着小可爱的～要专注于记录小可爱，无论小可爱是掉水坑了，还是头发吹飞起来了，都要！通通记下来！！biabia最棒～
+about-author: 罩着小可爱的～
 # Contact links
 email: tanzby@outlook.com # Add your Email address
 phone: 13676006654 # Add your Phone number
