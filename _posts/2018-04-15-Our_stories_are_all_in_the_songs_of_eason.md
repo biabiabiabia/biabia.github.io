@@ -3,7 +3,7 @@ layout: post
 title: 我们的故事，都在歌里
 date: 2018-04-15 01:14:00 
 description:  (optional)
-img: post-email.png # Add image post (optional)
+img: eason_2.jpeg # Add image post (optional)
 tags: [你在远方哎]
 author: biabia # Add name author (optional)
 ---
