@@ -5,7 +5,7 @@ author: biabia
 tags: [你在远方哎]
 ---
 
-<center>
+<p style="text-align:center">
 
 **“还记得当天吉他的和弦，还明白每段旋律的伏线”**
 
@@ -43,7 +43,7 @@ tags: [你在远方哎]
 
 2018年4月29日
 
-</center>
+</p>
 
  
 
