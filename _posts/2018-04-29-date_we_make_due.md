@@ -2,6 +2,7 @@
 title: 约定的日子
 date: 2018-04-29 04:59:23
 author: biabia
+img: 2018-04-29.jpg
 tags: [你在远方哎]
 ---
 
