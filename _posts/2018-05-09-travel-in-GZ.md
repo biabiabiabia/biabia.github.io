@@ -17,7 +17,7 @@ tags: [与我常在]
 
 
 
- <p style="text-align:center"><img src="/assets/img/2018-05-09-5.jpg" width="300px"></p>
+ <p style="text-align:center"><img src="/assets/img/2018-05-09-5.jpg" width="600px"></p>
 
 
 
@@ -51,7 +51,7 @@ biabia 正式是我的人啦！
 
 
 
-  <p style="text-align:center"><img src="/assets/img/2018-05-09-6.jpg" width="300px"></p>
+  <p style="text-align:center"><img src="/assets/img/2018-05-09-6.jpg" width="400px"></p>
 
  
 
@@ -71,7 +71,7 @@ biabia，那天我们约定接下来这两天就不要见面，好好学习。
 
 
 
-<p style="text-align:center"><img src="/assets/img/2018-05-09-3.jpg" width="300px"></p>
+<p style="text-align:center"><img src="/assets/img/2018-05-09-3.jpg" width="400px"></p>
 
 
 
