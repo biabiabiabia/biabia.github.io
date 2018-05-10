@@ -29,6 +29,8 @@ biabia 正式是我的人啦！
 
 ## 在南宁
 
+ 
+
 从来没有那么害怕错过了动车，手环一震就跳了起来，，一翻身抓起手机就是你的《约定的日子》，感觉这真是个优秀的“梦的开始”。
 
 我的biabia，你还是那么坏，总是半夜悄悄地敲打自己的心声在一个个的文字上。
@@ -43,7 +45,9 @@ biabia 正式是我的人啦！
 
 
 
-  
+  <p style="text-align:center"><img src="/assets/img/2018-05-09-6.jpg" width="300px"></p>
+
+ 
 
 
 
@@ -61,7 +65,7 @@ biabia，那天我们约定接下来这两天就不要见面，好好学习。
 
 
 
-<p><img src="/assets/img/2018-05-09-3.jpg" width="300px"></p>
+<p style="text-align:center"><img src="/assets/img/2018-05-09-3.jpg" width="300px"></p>
 
 
 
