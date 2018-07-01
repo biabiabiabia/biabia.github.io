@@ -27,7 +27,7 @@ discus_identifier: tanzby # Add your discus identifier
 analytics: # Google Analytics
 
 # Paginate
-paginate: 6
+paginate: 12
 paginate_path: /page:num/
 
 # Build settings
