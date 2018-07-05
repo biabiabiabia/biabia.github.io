@@ -23,6 +23,7 @@
 		border:1px solid #ccc;
 		text-align: center;
 		line-height: 50px;
+		transition: all 0.5s ease-out;
 	}
 
 	.bnt:hover {
@@ -74,8 +75,10 @@
 		var mask = document.getElementById('close');
 		var img = document.getElementsByTagName('img')[0];
 
-	        img.style.display = "none";
-	       mask.style.display = "none";
+		img.style.display = "none";
+		mask.style.display = "none";
+
+		var can_continue = true;
 
 		function fun(e){
 
@@ -84,9 +87,12 @@
 			var tx = bn1.getBoundingClientRect().left+25;
 			var ty = bn1.getBoundingClientRect().top+50;
 			var r =  Math.abs((x-tx)*(x-tx) + (y-ty)*(y-ty));
-			if(r <3000){
+			if(can_continue && r <3000  ){
+				can_continue=false;
 				bn1.style.top = Math.random()*(document.body.clientHeight-200)+100;
 				bn1.style.left = Math.random()*(document.body.clientWidth-200)+100;
+
+				setInterval(function(){can_continue=true},300); 
 			}
 
 		
