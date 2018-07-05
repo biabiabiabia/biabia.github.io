@@ -1,0 +1,128 @@
+<!DOCTYPE>
+<html  lang="zh-CN">
+<head>
+	<title></title>
+	<style type="text/css">
+	*{
+		margin: 0;
+		padding: 0;
+	}
+		
+	#center{
+		position: relative;
+		top: 20%;
+		text-align: center;
+	}
+
+	.bnt{
+
+		position: absolute;
+		width: 100px;
+		height: 50px;
+		border-radius: 16px;
+		border:1px solid #ccc;
+		text-align: center;
+		line-height: 50px;
+	}
+
+	.bnt:hover {
+		background: #123450;
+		color: white;
+		cursor: pointer;
+	}
+
+	.back{
+		position: fixed;
+		width: 100%;
+		height: 100%;
+	}
+	.img{
+		position: fixed;z-index: 10;top:50%;left: 50%;
+		margin-top: -300px;
+		margin-left: -400px;
+
+	}
+	#close{position: absolute;left: 10px;top: 5px;}
+
+
+	</style>
+
+</head>
+<body onmousemove = "fun(event)">
+
+
+	<div id="center" id ="show"><h1>给我咬一口吧～</h1></div>
+
+	<div class="bnt" id="1bnt" style="top: 60%; left: 30%;">
+		<p>不行！</p>
+	</div>
+
+	<div class="bnt" id="2bnt" onclick="fun2()" style="top: 60%; right:  30%;">
+		<p>好哇好哇～</p>
+	</div>
+
+	<div class="mask"></div>
+	<div class="img"><span id="close">关闭</span>
+		<img src="back.jpg" alt="" width="800px">
+	</div>
+
+
+	<script type="text/javascript">
+		var bn1 = document.getElementById('1bnt'); 
+
+
+		var mask = document.getElementById('close');
+		var img = document.getElementsByTagName('img')[0];
+
+		// img.style.display = "none";
+		// mask.style.display = "none";
+
+		function fun(e){
+
+			var x = e.clientX;
+			var y = e.clientY;
+			var tx = bn1.getBoundingClientRect().left+25;
+			var ty = bn1.getBoundingClientRect().top+50;
+			var r =  Math.abs((x-tx)*(x-tx) + (y-ty)*(y-ty));
+			if(r <3000){
+				bn1.style.top = Math.random()*(document.body.clientHeight-200)+100;
+				bn1.style.left = Math.random()*(document.body.clientWidth-200)+100;
+			}
+
+		
+
+		}
+
+		function fun2(){
+			var currentTime = Date.now();
+			 
+			// 注1：这里写的是2012年9月1日0时0分0秒
+			// 注2：Javascript中月份是实际数字减1
+			var targetTime = (new Date(2018, 6, 10, 20, 0, 0)).getTime();
+			 
+			// 获取差值，如果指定日期早于现在，则为负数
+			var offsetTime = targetTime - currentTime;
+			 
+			// 求绝对值，获取相差的时间
+			offsetTime = Math.abs(offsetTime);
+
+			alert("耶～ 还有"+Math.ceil(offsetTime / (3600 * 1e3))+"个小时就要被咬了！" );
+			document.body.style.backgroundColor= "#333";
+
+			img.style.display = "block";
+			mask.style.display="block";
+		}
+
+		
+		mask.onclick=function(){
+			img.style.display = "none";
+			this.style.display = "none";
+			document.body.style.backgroundColor= "#fff";
+
+		}
+
+
+
+	</script>
+</body>
+</html>
